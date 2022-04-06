@@ -2,5 +2,5 @@ I'm currently a software engineer with [google.org](https://google.org) (pro bon
 
 How email maps to my activity:
 
-1. `@gmail.com` - Personal projects.
+1. `@gmail.com` - Personal projects (pre-Google or IARC-approved).
 2. `@google.com` - Work for, on-behalf-of, or as a member of Google.

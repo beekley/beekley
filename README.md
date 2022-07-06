@@ -1,4 +1,4 @@
-I'm currently a software engineer with [google.org](https://google.org) (pro bono), working on `${PROJECT}`. In my day job I'm an SRE with [google.com](https://google.org) (for profit).
+I'm currently a software engineer with [google.org](https://google.org) (pro bono), working on [mapping lead pipes](https://github.com/BlueConduit/open-data-platform). In my day job I'm an SRE with [google.com](https://google.com) (for profit).
 
 How email maps to my activity:
 
